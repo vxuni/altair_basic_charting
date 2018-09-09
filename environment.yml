@@ -1,0 +1,11 @@
+name: vxuni_altair
+channels:
+  - conda-forge
+dependencies:
+  - altair
+  - jupyterlab
+  - lxml
+  - pandas
+  - python=3.6
+  - vega_datasets
+
