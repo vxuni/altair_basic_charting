@@ -1,0 +1,4 @@
+#+TITLE: Repo for VisualX University mini-lecture /Basic charting in Altair/
+
+See [[https://vxuni.com/lectures/altair_basic_charting/][the lecture page at vxuni.com]] for more information.
+
